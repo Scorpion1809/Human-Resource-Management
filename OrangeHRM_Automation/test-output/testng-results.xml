@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-11T15:06:32 IST" name="Default suite" finished-at="2025-03-11T15:07:41 IST" duration-ms="69601">
+    <groups>
+    </groups>
+    <test started-at="2025-03-11T15:06:32 IST" name="Default test" finished-at="2025-03-11T15:07:41 IST" duration-ms="69601">
+      <class name="test.S2_F2AdminTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:06:32 IST" name="setUp" finished-at="2025-03-11T15:06:37 IST" duration-ms="5759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGetAllMenuOptions()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:06:37 IST" name="testGetAllMenuOptions" finished-at="2025-03-11T15:06:45 IST" duration-ms="8066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllMenuOptions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:06:45 IST" name="tearDown" finished-at="2025-03-11T15:06:46 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:06:46 IST" name="setUp" finished-at="2025-03-11T15:06:51 IST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchByUserRole()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:06:51 IST" name="testSearchByUserRole" finished-at="2025-03-11T15:07:02 IST" duration-ms="10517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchByUserRole -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:07:02 IST" name="tearDown" finished-at="2025-03-11T15:07:02 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:07:02 IST" name="setUp" finished-at="2025-03-11T15:07:10 IST" duration-ms="8559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchByUserStatus()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:07:10 IST" name="testSearchByUserStatus" finished-at="2025-03-11T15:07:22 IST" duration-ms="11247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchByUserStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:07:22 IST" name="tearDown" finished-at="2025-03-11T15:07:22 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:07:22 IST" name="setUp" finished-at="2025-03-11T15:07:30 IST" duration-ms="8695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchByUsername()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:07:30 IST" name="testSearchByUsername" finished-at="2025-03-11T15:07:41 IST" duration-ms="10465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchByUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.S2_F2AdminTest@3bd82cf5]" started-at="2025-03-11T15:07:41 IST" name="tearDown" finished-at="2025-03-11T15:07:41 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.S2_F2AdminTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
